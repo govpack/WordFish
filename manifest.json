@@ -1,0 +1,9 @@
+{"name": "WordFish"
+,"description": "Fish for words from the current page. Then click to match terms with their definitions -- a brain Training game."
+,"version": "0.1"
+,"permissions": ["<all_urls>"]
+,"browser_action": {"default_popup": "popup.html","default_icon":"px/32.png","default_title": "Match words with their definitions"}
+,"manifest_version": 2
+,"icons": { "16": "px/16.png","48": "px/48.png","128": "px/128.png" }
+}
+
